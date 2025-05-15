@@ -1,3 +1,7 @@
+Sobre
+
+Site simples para mostrar produtos de crochê e direcionar pedidos para o WhatsApp.
+
 Como Usar
 
     Substitua os dados:
